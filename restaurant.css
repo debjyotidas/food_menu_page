@@ -1,0 +1,25 @@
+
+.nav-link{
+    font-weight:bold;
+    font-size:20px;
+}
+.cup{
+    font-weight:bold;
+    padding-right: 5px;
+}
+.bg-cont{
+    background-color: #f2fbff;
+    background-size: cover;
+    height:100vh;
+}
+h1{
+    color:#072e6b;
+    font-family:Comic Sans MS;
+    font-size:30px;
+    padding:25px;
+    font-weight:bold;
+    
+}
+.menu-item-image {
+    border-radius: 16px;
+}
